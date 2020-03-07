@@ -1,1 +1,2 @@
-# MIDS_W207_Final_Project
+## UC Berkeley MIDS W207 Applied Machine Learning
+## Final Project: House Price Prediction (Kaggle)
